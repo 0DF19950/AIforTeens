@@ -9,3 +9,9 @@ Objective: Create an AI bot that predicts and wins at rock-paper-scissors.
 2. Data Detective Game
 
 Objective: Solve a mystery using data patterns.
+
+**Rendered Output:**
+```python
+def hello():
+    print("Hello, World!")
+
